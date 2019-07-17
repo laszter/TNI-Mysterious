@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e43fb8b3479f1f4180e61c3dacebb25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - neonLight: {instanceID: 0}
+  - turnOn: {fileID: 2100000, guid: 1bfc8854c14650d42b91d5598275e191, type: 2}
+  - turnOff: {fileID: 2100000, guid: 8974a58acc9417243bbd0148f63622f6, type: 2}
+  - turnOnDim: {fileID: 2100000, guid: ce6f13b87dcb5e3448419c77b13c5996, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

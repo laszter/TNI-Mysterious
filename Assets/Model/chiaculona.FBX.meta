@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 10c5b2d52c49e114eaebb8ac28db9894
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh_0005
+    100004: Mesh_0005 1
+    100006: Mesh_0006
+    100008: Mesh_0007
+    100010: Mesh_0007 1
+    100012: Mesh_0008
+    100014: Mesh_0009
+    100016: Mesh_0010
+    100018: Mesh_0011
+    100020: Mesh_0011 1
+    100022: Mesh_0012
+    100024: Mesh_0013
+    100026: Mesh_0013 1
+    100028: Mesh_0013 2
+    100030: Mesh_0014
+    100032: Mesh_0015
+    100034: Mesh_0016
+    100036: Mesh_0017
+    100038: Mesh_0017 1
+    100040: Mesh_0018
+    100042: Mesh_0024
+    100044: Mesh_0025
+    100046: Mesh_0026
+    100048: Mesh_0026 1
+    400000: //RootNode
+    400002: Mesh_0005
+    400004: Mesh_0005 1
+    400006: Mesh_0006
+    400008: Mesh_0007
+    400010: Mesh_0007 1
+    400012: Mesh_0008
+    400014: Mesh_0009
+    400016: Mesh_0010
+    400018: Mesh_0011
+    400020: Mesh_0011 1
+    400022: Mesh_0012
+    400024: Mesh_0013
+    400026: Mesh_0013 1
+    400028: Mesh_0013 2
+    400030: Mesh_0014
+    400032: Mesh_0015
+    400034: Mesh_0016
+    400036: Mesh_0017
+    400038: Mesh_0017 1
+    400040: Mesh_0018
+    400042: Mesh_0024
+    400044: Mesh_0025
+    400046: Mesh_0026
+    400048: Mesh_0026 1
+    2100000: Tex_0005_0.dds
+    2100002: Tex_0006_0.dds
+    2100004: Tex_0008_0.dds
+    2100006: Tex_0009_0.dds
+    2100008: Tex_0010_0.dds
+    2100010: 'Material #25'
+    2100012: Tex_0013_0.dds
+    2100014: Tex_0011_0.dds
+    2100016: 'Material #26'
+    2100018: 'Material #27'
+    2100020: Tex_0019_0.dds
+    2100022: Tex_0020_0.dds
+    2100024: Tex_0021_0.dds
+    2300000: Mesh_0005
+    2300002: Mesh_0005 1
+    2300004: Mesh_0006
+    2300006: Mesh_0007
+    2300008: Mesh_0007 1
+    2300010: Mesh_0008
+    2300012: Mesh_0009
+    2300014: Mesh_0010
+    2300016: Mesh_0011
+    2300018: Mesh_0011 1
+    2300020: Mesh_0012
+    2300022: Mesh_0013
+    2300024: Mesh_0013 1
+    2300026: Mesh_0013 2
+    2300028: Mesh_0014
+    2300030: Mesh_0015
+    2300032: Mesh_0016
+    2300034: Mesh_0017
+    2300036: Mesh_0017 1
+    2300038: Mesh_0018
+    2300040: Mesh_0024
+    2300042: Mesh_0025
+    2300044: Mesh_0026
+    2300046: Mesh_0026 1
+    3300000: Mesh_0005
+    3300002: Mesh_0005 1
+    3300004: Mesh_0006
+    3300006: Mesh_0007
+    3300008: Mesh_0007 1
+    3300010: Mesh_0008
+    3300012: Mesh_0009
+    3300014: Mesh_0010
+    3300016: Mesh_0011
+    3300018: Mesh_0011 1
+    3300020: Mesh_0012
+    3300022: Mesh_0013
+    3300024: Mesh_0013 1
+    3300026: Mesh_0013 2
+    3300028: Mesh_0014
+    3300030: Mesh_0015
+    3300032: Mesh_0016
+    3300034: Mesh_0017
+    3300036: Mesh_0017 1
+    3300038: Mesh_0018
+    3300040: Mesh_0024
+    3300042: Mesh_0025
+    3300044: Mesh_0026
+    3300046: Mesh_0026 1
+    4300000: Mesh_0005
+    4300002: Mesh_0006
+    4300004: Mesh_0007
+    4300006: Mesh_0005
+    4300008: Mesh_0007
+    4300010: Mesh_0008
+    4300012: Mesh_0009
+    4300014: Mesh_0010
+    4300016: Mesh_0011
+    4300018: Mesh_0011
+    4300020: Mesh_0012
+    4300022: Mesh_0013
+    4300024: Mesh_0013
+    4300026: Mesh_0013
+    4300028: Mesh_0014
+    4300030: Mesh_0015
+    4300032: Mesh_0016
+    4300034: Mesh_0017
+    4300036: Mesh_0017
+    4300038: Mesh_0018
+    4300040: Mesh_0024
+    4300042: Mesh_0025
+    4300044: Mesh_0026
+    4300046: Mesh_0026
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 29c98ae7e06a1544ca4c371184b021a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 241caedb4bfc4244283c344852fd603b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 630ead0bae9876c47b1fcb15915d5de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0005_0.dds
+    second: {fileID: 2100000, guid: 2f7bd0a610ebdf24c9f93b936a010000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0006_0.dds
+    second: {fileID: 2100000, guid: 2e69dc5c6d8aa194e97d6b60be59b7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0008_0.dds
+    second: {fileID: 2100000, guid: 3b7a09b97f86e8643be9e9f01523a488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0009_0.dds
+    second: {fileID: 2100000, guid: 29e55ff7564220749a226c117d23694a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0010_0.dds
+    second: {fileID: 2100000, guid: 63030f04adfa9df48a88b652f48a2e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0011_0.dds
+    second: {fileID: 2100000, guid: e467327e279340b42a56fe488c56b5d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0013_0.dds
+    second: {fileID: 2100000, guid: 23c43b80c972c744180cf48df2a2bc3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0019_0.dds
+    second: {fileID: 2100000, guid: 88ed6b7b4fe14e245a3717f36a3aca5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0020_0.dds
+    second: {fileID: 2100000, guid: b093e54ccfbf9cc47acd639a2a5df001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_0021_0.dds
+    second: {fileID: 2100000, guid: c4a6c5b8da03be344a2ccaa0cc8348a4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0005_0
+    second: {fileID: 2800000, guid: e380422ffdbdc594183b1956a0009244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0006_0
+    second: {fileID: 2800000, guid: 7f569d9e38c2673459e577e3d2c56f22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0008_0
+    second: {fileID: 2800000, guid: 62a58352da75b9440b5cc2230070b2f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0009_0
+    second: {fileID: 2800000, guid: 727f6f4baf9d58b478bfc2cf0b7c93d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0010_0
+    second: {fileID: 2800000, guid: bf06ce39b19cf5245b9086f323c42493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0011_0
+    second: {fileID: 2800000, guid: 4a47762c32a093c4d8b03e778ec6ee61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0013_0
+    second: {fileID: 2800000, guid: 1320c00a285cf8245bb194ef1975b0a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0019_0
+    second: {fileID: 2800000, guid: 395aaae937b62ef4b854ef883a404bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0020_0
+    second: {fileID: 2800000, guid: 8c1d297964c4c9145afafb2c22850dbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex_0021_0
+    second: {fileID: 2800000, guid: 89f7fe67a2cd53d4fa381712d44d9065, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

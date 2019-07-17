@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 50271e655149b734eb86dd959ed71440
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bandai
+    100002: BanSai_Room
+    100004: BanSai_Room2
+    100006: BanSai_Room3
+    100008: //RootNode
+    100010: Floor1
+    100012: Floor2
+    100014: Fri_Add9
+    100016: Roof6
+    100018: Room1
+    100020: Room10
+    100022: Room11
+    100024: Room12
+    100026: Room2
+    100028: Room3
+    100030: Room4
+    100032: Room5
+    100034: Room6
+    400000: Bandai
+    400002: BanSai_Room
+    400004: BanSai_Room2
+    400006: BanSai_Room3
+    400008: //RootNode
+    400010: Floor1
+    400012: Floor2
+    400014: Fri_Add9
+    400016: Roof6
+    400018: Room1
+    400020: Room10
+    400022: Room11
+    400024: Room12
+    400026: Room2
+    400028: Room3
+    400030: Room4
+    400032: Room5
+    400034: Room6
+    2100000: lambert1
+    2100002: Room
+    2100004: Floor_Rocky
+    2100006: Wall2
+    2100008: Cement
+    2100010: Handle1
+    2100012: H_Wall
+    2100014: Door_Frame
+    2100016: Roof
+    2100018: Plastic_pile
+    2100020: Iron_pile
+    2300000: Bandai
+    2300002: BanSai_Room
+    2300004: BanSai_Room2
+    2300006: BanSai_Room3
+    2300008: Floor1
+    2300010: Floor2
+    2300012: Fri_Add9
+    2300014: Roof6
+    2300016: Room1
+    2300018: Room10
+    2300020: Room11
+    2300022: Room12
+    2300024: Room2
+    2300026: Room3
+    2300028: Room4
+    2300030: Room5
+    2300032: Room6
+    3300000: Bandai
+    3300002: BanSai_Room
+    3300004: BanSai_Room2
+    3300006: BanSai_Room3
+    3300008: Floor1
+    3300010: Floor2
+    3300012: Fri_Add9
+    3300014: Roof6
+    3300016: Room1
+    3300018: Room10
+    3300020: Room11
+    3300022: Room12
+    3300024: Room2
+    3300026: Room3
+    3300028: Room4
+    3300030: Room5
+    3300032: Room6
+    4300000: Bandai
+    4300002: Room5
+    4300004: Room6
+    4300006: Room3
+    4300008: Room4
+    4300010: Room1
+    4300012: BanSai_Room
+    4300014: Room2
+    4300016: Floor1
+    4300018: Floor2
+    4300020: BanSai_Room2
+    4300022: Room10
+    4300024: Room11
+    4300026: Room12
+    4300028: Fri_Add9
+    4300030: Roof6
+    4300032: BanSai_Room3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cement
+    second: {fileID: 2100000, guid: 0a52475481f7c7246998c177e8ed82d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Frame
+    second: {fileID: 2100000, guid: 8683f594f4608b445921fb4bd09ea2f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Rocky
+    second: {fileID: 2100000, guid: 4a11cb47f0d4e1846a231193bf6be02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: H_Wall
+    second: {fileID: 2100000, guid: 56c481751ecc6fb489d227d63214a850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle1
+    second: {fileID: 2100000, guid: 3d955d8181c832643a1cd8c470c2db04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron_pile
+    second: {fileID: 2100000, guid: 495dc8e848418084f8f8aa77ea68bc01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_pile
+    second: {fileID: 2100000, guid: 4a3743d1ca78f714e89e98f7ab204ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: a29426e15e606b240bec354b8a412dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room
+    second: {fileID: 2100000, guid: dfbf83832ef7d0a4184adc0bdf4b2714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2
+    second: {fileID: 2100000, guid: 6955bc422a471ea4a8de94d4a4ef7dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 3987b07e02b704445aea01ab2dec23a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.39
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
